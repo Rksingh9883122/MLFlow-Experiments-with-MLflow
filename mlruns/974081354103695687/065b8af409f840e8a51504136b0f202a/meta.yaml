@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/065b8af409f840e8a51504136b0f202a/artifacts
+end_time: 1754812046023
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 065b8af409f840e8a51504136b0f202a
+run_name: powerful-shoat-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754812045901
+status: 3
+tags: []
+user_id: Raj

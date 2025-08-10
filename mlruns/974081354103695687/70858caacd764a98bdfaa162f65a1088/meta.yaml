@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/70858caacd764a98bdfaa162f65a1088/artifacts
+end_time: 1754811662067
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 70858caacd764a98bdfaa162f65a1088
+run_name: amusing-colt-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811661974
+status: 3
+tags: []
+user_id: Raj

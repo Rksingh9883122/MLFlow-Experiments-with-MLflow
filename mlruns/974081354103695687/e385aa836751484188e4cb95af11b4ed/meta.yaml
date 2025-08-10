@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/e385aa836751484188e4cb95af11b4ed/artifacts
+end_time: 1754810981872
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: e385aa836751484188e4cb95af11b4ed
+run_name: stylish-roo-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754810981775
+status: 3
+tags: []
+user_id: Raj

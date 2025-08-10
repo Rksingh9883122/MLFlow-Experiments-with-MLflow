@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/fe04cae006604c9ea50cbc1b5a38351d/artifacts
+end_time: 1754811717640
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: fe04cae006604c9ea50cbc1b5a38351d
+run_name: grandiose-hog-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811717541
+status: 3
+tags: []
+user_id: Raj

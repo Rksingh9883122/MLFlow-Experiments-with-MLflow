@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/5785bf29ff86408bb5f3937b66cd8716/artifacts
+end_time: 1754812044990
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 5785bf29ff86408bb5f3937b66cd8716
+run_name: sincere-doe-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754812044876
+status: 3
+tags: []
+user_id: Raj

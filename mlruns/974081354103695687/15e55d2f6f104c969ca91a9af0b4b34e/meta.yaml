@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/15e55d2f6f104c969ca91a9af0b4b34e/artifacts
+end_time: 1754810982317
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 15e55d2f6f104c969ca91a9af0b4b34e
+run_name: mercurial-cat-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754810982208
+status: 3
+tags: []
+user_id: Raj

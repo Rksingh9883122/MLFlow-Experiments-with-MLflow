@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/de91782d2e4e4100a27801cf3b8ebd8c/artifacts
+end_time: 1754811520053
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: de91782d2e4e4100a27801cf3b8ebd8c
+run_name: learned-doe-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811519939
+status: 3
+tags: []
+user_id: Raj

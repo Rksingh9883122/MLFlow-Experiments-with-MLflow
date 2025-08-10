@@ -58,7 +58,8 @@ with mlflow.start_run() as run:
     mlflow.set_tags({"Author":"Raj", "Project": "Wine Quality Prediction"})
     
     #log Model
-    #mlflow.sklearn.log_model(rf, "model")
+    mlflow.sklearn.log_model(rf, "model")
 
     print(accuracy_score(y_test, y_pred))
+    
     

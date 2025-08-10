@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/64824ce604b841129425a96f0f422667/artifacts
+end_time: 1754811661681
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 64824ce604b841129425a96f0f422667
+run_name: powerful-dolphin-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811661581
+status: 3
+tags: []
+user_id: Raj

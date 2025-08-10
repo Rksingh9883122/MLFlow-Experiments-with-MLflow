@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/36473df20ab44f77abe80be0f3ac28f4/artifacts
+end_time: 1754811519595
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 36473df20ab44f77abe80be0f3ac28f4
+run_name: puzzled-yak-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811519477
+status: 3
+tags: []
+user_id: Raj

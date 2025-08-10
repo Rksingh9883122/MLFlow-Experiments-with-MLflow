@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/32088689ec7540408c418b0efa49fa7c/artifacts
+end_time: 1754811717907
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 32088689ec7540408c418b0efa49fa7c
+run_name: redolent-tern-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811717804
+status: 3
+tags: []
+user_id: Raj

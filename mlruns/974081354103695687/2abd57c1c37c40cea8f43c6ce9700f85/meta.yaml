@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/2abd57c1c37c40cea8f43c6ce9700f85/artifacts
+end_time: 1754811763481
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 2abd57c1c37c40cea8f43c6ce9700f85
+run_name: fun-rat-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811763355
+status: 3
+tags: []
+user_id: Raj

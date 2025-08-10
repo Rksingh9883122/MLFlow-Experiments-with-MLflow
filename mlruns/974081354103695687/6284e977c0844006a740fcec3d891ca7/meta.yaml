@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/6284e977c0844006a740fcec3d891ca7/artifacts
+end_time: 1754811532067
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 6284e977c0844006a740fcec3d891ca7
+run_name: zealous-moth-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811503077
+status: 3
+tags: []
+user_id: Raj

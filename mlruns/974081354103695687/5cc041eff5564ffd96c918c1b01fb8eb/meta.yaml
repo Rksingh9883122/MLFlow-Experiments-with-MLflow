@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/5cc041eff5564ffd96c918c1b01fb8eb/artifacts
+end_time: 1754812045634
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 5cc041eff5564ffd96c918c1b01fb8eb
+run_name: wise-midge-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754812045536
+status: 3
+tags: []
+user_id: Raj

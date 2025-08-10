@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/90fbc11c6fd1497dace81a8ac36b462a/artifacts
+end_time: 1754811717763
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 90fbc11c6fd1497dace81a8ac36b462a
+run_name: spiffy-slug-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811717665
+status: 3
+tags: []
+user_id: Raj

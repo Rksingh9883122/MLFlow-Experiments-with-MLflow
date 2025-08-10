@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/802e3f6553444aac8aaca05949c54a3d/artifacts
+end_time: 1754811944800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 802e3f6553444aac8aaca05949c54a3d
+run_name: delightful-bear-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811944734
+status: 3
+tags: []
+user_id: Raj

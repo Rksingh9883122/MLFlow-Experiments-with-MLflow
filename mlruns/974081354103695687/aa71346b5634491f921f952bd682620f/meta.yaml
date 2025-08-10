@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/aa71346b5634491f921f952bd682620f/artifacts
+end_time: 1754811662611
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: aa71346b5634491f921f952bd682620f
+run_name: popular-jay-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811662519
+status: 3
+tags: []
+user_id: Raj

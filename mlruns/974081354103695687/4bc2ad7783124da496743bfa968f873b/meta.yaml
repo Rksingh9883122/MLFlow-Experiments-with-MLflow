@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/4bc2ad7783124da496743bfa968f873b/artifacts
+end_time: 1754811763145
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 4bc2ad7783124da496743bfa968f873b
+run_name: resilient-turtle-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811763002
+status: 3
+tags: []
+user_id: Raj

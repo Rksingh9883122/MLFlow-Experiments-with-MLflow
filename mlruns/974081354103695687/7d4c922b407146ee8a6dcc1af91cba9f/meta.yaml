@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/7d4c922b407146ee8a6dcc1af91cba9f/artifacts
+end_time: 1754811718592
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: 7d4c922b407146ee8a6dcc1af91cba9f
+run_name: bemused-roo-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811718489
+status: 3
+tags: []
+user_id: Raj

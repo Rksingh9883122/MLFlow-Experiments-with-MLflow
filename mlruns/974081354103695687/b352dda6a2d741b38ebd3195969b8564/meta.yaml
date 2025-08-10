@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/b352dda6a2d741b38ebd3195969b8564/artifacts
+end_time: 1754811661950
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: b352dda6a2d741b38ebd3195969b8564
+run_name: adaptable-turtle-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811661859
+status: 3
+tags: []
+user_id: Raj

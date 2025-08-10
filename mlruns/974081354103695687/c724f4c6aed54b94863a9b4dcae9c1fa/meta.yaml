@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/c724f4c6aed54b94863a9b4dcae9c1fa/artifacts
+end_time: 1754811661823
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: c724f4c6aed54b94863a9b4dcae9c1fa
+run_name: glamorous-croc-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754811661706
+status: 3
+tags: []
+user_id: Raj

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/974081354103695687/af4eb08add1b4dd09e2c72210161a000/artifacts
+end_time: 1754812044849
+entry_point_name: ''
+experiment_id: '974081354103695687'
+lifecycle_stage: active
+run_id: af4eb08add1b4dd09e2c72210161a000
+run_name: beautiful-seal-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754812044745
+status: 3
+tags: []
+user_id: Raj
