@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Raj\Documents\MLOPS_3\MLFlow-Experiments-with-MLflow\mlruns/684791542301990813/36d89378eb404c2984353e3efac7ba29/artifacts
+end_time: 1754803334098
+entry_point_name: ''
+experiment_id: '684791542301990813'
+lifecycle_stage: active
+run_id: 36d89378eb404c2984353e3efac7ba29
+run_name: orderly-ape-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754803320040
+status: 3
+tags: []
+user_id: Raj

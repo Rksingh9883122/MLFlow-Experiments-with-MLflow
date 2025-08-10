@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\Raj\Documents\MLOPS_3\MLFlow-Experiments-with-MLflow\mlruns/684791542301990813/models/m-6f23a55120bc47debaa61c31bbb16d5f/artifacts
+creation_timestamp: 1754803320910
+experiment_id: '684791542301990813'
+last_updated_timestamp: 1754803334077
+model_id: m-6f23a55120bc47debaa61c31bbb16d5f
+model_type: null
+name: model
+source_run_id: 36d89378eb404c2984353e3efac7ba29
+status: 2
+status_message: null

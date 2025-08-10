@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/788602000324511194/cc40f388069241299be0d0e00b39b7b3/artifacts
+end_time: 1754763718649
+entry_point_name: ''
+experiment_id: '788602000324511194'
+lifecycle_stage: active
+run_id: cc40f388069241299be0d0e00b39b7b3
+run_name: sedate-finch-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754763704433
+status: 3
+tags: []
+user_id: Raj

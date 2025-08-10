@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/788602000324511194/cbccbe98a2bb45b78a749f9de79d01e7/artifacts
+end_time: 1754764192802
+entry_point_name: ''
+experiment_id: '788602000324511194'
+lifecycle_stage: active
+run_id: cbccbe98a2bb45b78a749f9de79d01e7
+run_name: aged-elk-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754764192690
+status: 3
+tags: []
+user_id: Raj

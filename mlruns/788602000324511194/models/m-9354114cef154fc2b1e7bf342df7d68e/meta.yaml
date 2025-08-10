@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/788602000324511194/models/m-9354114cef154fc2b1e7bf342df7d68e/artifacts
+creation_timestamp: 1754763705805
+experiment_id: '788602000324511194'
+last_updated_timestamp: 1754763718632
+model_id: m-9354114cef154fc2b1e7bf342df7d68e
+model_type: null
+name: Random-Forest-Model
+source_run_id: cc40f388069241299be0d0e00b39b7b3
+status: 2
+status_message: null

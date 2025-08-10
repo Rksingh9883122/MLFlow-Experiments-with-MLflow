@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFlow-Experiments-with-MLflow/mlruns/788602000324511194/8216fac8e224457f9db1df614e05c393/artifacts
+end_time: 1754763801253
+entry_point_name: ''
+experiment_id: '788602000324511194'
+lifecycle_stage: active
+run_id: 8216fac8e224457f9db1df614e05c393
+run_name: zealous-ox-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754763790777
+status: 3
+tags: []
+user_id: Raj
